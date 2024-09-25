@@ -1,6 +1,6 @@
 <template>
   <div>
-    <pre>default layout</pre>
+    <pre>orange layout</pre>
     <AppHeader />
     <Navbar />
     <slot />
@@ -10,7 +10,7 @@
 
 <style scoped>
   div {
-    background-color: lightgreen;
+    background-color: #eebb90;
     padding: 20px;
     height: 100vh;
   }
